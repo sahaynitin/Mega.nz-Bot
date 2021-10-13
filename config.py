@@ -17,11 +17,7 @@ class Config(object):
 
 # Text Prints
 B_START_TEXT = """
-   __  ___                                     ___       __ 
-  /  |/  /__ ___ ____ _      ___  ___   ____  / _ )___  / /_
- / /|_/ / -_) _ `/ _ `/ _   / _ \/_ /  /___/ / _  / _ \/ __/
-/_/  /_/\__/\_, /\_,_/ (_) /_//_//__/       /____/\___/\__/ 
-           /___/
+I am Megadl Bot By @Tellybots_4u
 
 Process: {}
 """
@@ -35,28 +31,18 @@ Successfully Logged Into Mega.nz User Account
 """
 
 LOGIN_ERROR_TEXT = """
-Can't Get Mega Email and Password Login as an Anonymouse User
+Can't Get Mega Email and Password Login as an Anonymous User
 """
 
 ERROR_TEXT = """
- _____                     
-| ____|_ __ _ __ ___  _ __ 
-|  _| | '__| '__/ _ \| '__|
-| |___| |  | | | (_) | |   
-|_____|_|  |_|  \___/|_|  
+An Expected Error Occurred
 
 Log: {}
 
-Save the Log file and Send it to @Nexa_bots for Help :)
+Save the Log file and Send it to @Tellybots_4u for Help :)
 """
 
 START_TEXT="""
-    _   __                   ____        __      
-   / | / /__  _  ______ _   / __ )____  / /______
-  /  |/ / _ \| |/_/ __ `/  / __  / __ \/ __/ ___/
- / /|  /  __/>  </ /_/ /  / /_/ / /_/ / /_(__  ) 
-/_/ |_/\___/_/|_|\__,_/  /_____/\____/\__/____/ 
-
-
-Bot is Running Now! Join @NexaBotsUpdates
+Hi {}\n\nI am Mega-dl Bot\n\nI can help You to download files from Mega web
+Made with 💕 By @Tellybots_4u
 """
